@@ -1,5 +1,6 @@
 package com.sample.todo;
 
+
 public class Action {
 	
 	ActionType type;

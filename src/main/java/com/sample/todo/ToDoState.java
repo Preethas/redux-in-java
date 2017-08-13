@@ -8,6 +8,11 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * The state can be any type of object , It can contain arrays ,primitives and other objects
+ * @author srinivasan
+ *
+ */
 public class ToDoState implements Serializable{
 	
 	List<ToDo> toDoList;

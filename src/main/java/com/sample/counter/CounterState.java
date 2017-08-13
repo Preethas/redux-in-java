@@ -1,5 +1,10 @@
 package com.sample.counter;
 
+/**
+ * The state can be any type of object , It can contain arrays ,primitives and other objects
+ * @author srinivasan
+ *
+ */
 public class CounterState {
 	
 	int val = 0;
